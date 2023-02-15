@@ -1,0 +1,3 @@
+- Run yarn build & yarn dev on both folders parallely 
+- open localhost:3000
+- you should see super basic microfrontend in action.
